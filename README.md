@@ -46,3 +46,9 @@ product has arrived on time.
 6. Hypothesis Test and Data Analysis
      
 7. Conclusion
+
+
+
+link Tableau:
+Dashboard: https://public.tableau.com/app/profile/rangga.a7877/viz/Capstone2_17176133222040/Dashboard2?publish=yes
+Story: 
