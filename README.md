@@ -51,4 +51,6 @@ product has arrived on time.
 
 link Tableau:
 Dashboard: https://public.tableau.com/app/profile/rangga.a7877/viz/Capstone2_17176133222040/Dashboard2?publish=yes
-Story: 
+Story: https://public.tableau.com/app/profile/rangga.a7877/viz/Capstone2_17176133222040/Story12?publish=yes
+
+
